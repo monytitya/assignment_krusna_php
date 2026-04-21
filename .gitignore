@@ -1,0 +1,26 @@
+# Upload directory - contains user-generated images
+uploads/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# Local configuration (if using separate local config)
+config.local.php
+
+# Session files
+sessions/
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
