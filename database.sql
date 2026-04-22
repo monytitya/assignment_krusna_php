@@ -1,4 +1,3 @@
--- Create Database
 CREATE DATABASE IF NOT EXISTS Student_ass;
 USE Student_ass;
 

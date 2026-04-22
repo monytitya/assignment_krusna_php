@@ -11,7 +11,6 @@ $setup_status = array(
     'dir_error' => ''
 );
 
-// Test database connection
 try {
     if ($conn->connect_error) {
         $setup_status['db_error'] = "Connection failed: " . $conn->connect_error;
